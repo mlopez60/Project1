@@ -2,7 +2,7 @@
 
 Amazon Sales Analysis
 
-Team Members: Cherline Etienne, Mitchell Fairgrieve, Matthew Lopez
+Team Members: Mitchell Fairgrieve & Matthew Lopez
 
 Project Description: Analyzing Amazon India products, ratings, and reviews.
 
